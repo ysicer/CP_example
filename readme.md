@@ -1,3 +1,6 @@
 An example code for tensor factorization. 
 
-Includes the following 
+Includes:
+- Generate a synthetic tensor
+- Apply CP model on the tensor
+- Show the CP results and the ground truth
